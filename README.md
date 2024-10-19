@@ -17,6 +17,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# Lĩnh vực học tập
+### Lĩnh vực học tập
 - Hiện đang là sinh viên năm 3 ngành Công nghệ thông tin tại Trường Đại học Ngoại ngữ - Tin học TpHCM
 - Chuyên ngành công nghệ phần mềm
