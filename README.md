@@ -18,14 +18,7 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 - **Đánh giá và nhận xét**: Khách hàng có thể để lại đánh giá và nhận xét về sách đã mua.
 
 ### 📫 Liên Hệ
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
- <div id="badges">
-  <a href="[your-linkedin-URL](https://www.facebook.com/myanh040404040404/)">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linked&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/myanh040404040404/)
 
 ### 🛠 Ngôn Ngữ Lập Trình
    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,5 +46,7 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 
 ### ❤️ Cảm Ơn 
 Cảm ơn bạn đã dành thời gian tìm hiểu về tôi và dự án Bán Sách Online. Mọi ý kiến đóng góp và phản hồi đều được trân trọng để giúp chúng tôi cải thiện và mang đến trải nghiệm tốt hơn. Hy vọng được đồng hành cùng bạn trong hành trình khám phá thế giới sách!
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
