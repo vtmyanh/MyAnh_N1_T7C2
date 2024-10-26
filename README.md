@@ -29,6 +29,9 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
    ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🎓 Lĩnh Vực Học Tập
+- Hiện đang là sinh viên năm 3 ngành **Công nghệ thông tin** tại Trường Đại học Ngoại ngữ - Tin học TpHCM, chuyên ngành **Công nghệ phần mềm**.
+  
 ### 💡 Kỹ Năng
 - **Lập trình**: Thành thạo C#, JavaScript, SQL.
 - **Giao tiếp**: Kỹ năng giao tiếp tốt, có khả năng làm việc nhóm hiệu quả.
@@ -41,6 +44,4 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 - Dự Án Cá Nhân: Xây dựng một nền tảng thương mại điện tử mới, tập trung vào các tính năng cá nhân hóa cho từng người dùng.
 - Nghiên Cứu: Khám phá và nghiên cứu về trí tuệ nhân tạo và học máy để mở rộng phạm vi ứng dụng trong các dự án phần mềm.
 
-### 🎓 Lĩnh Vực Học Tập
-- Hiện đang là sinh viên năm 3 ngành **Công nghệ thông tin** tại Trường Đại học Ngoại ngữ - Tin học TpHCM, chuyên ngành **Công nghệ phần mềm**.
 
