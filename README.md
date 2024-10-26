@@ -34,7 +34,7 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 - **Giao tiếp**: Kỹ năng giao tiếp tốt, có khả năng làm việc nhóm hiệu quả.
 - **Giải quyết vấn đề**: Kỹ năng phân tích và giải quyết vấn đề linh hoạt.
 - **Quản lý thời gian**: Kỹ năng lập kế hoạch và quản lý thời gian hiệu quả.
-- 
+  
 ### 🎯 Dự Định Trong Tương Lai
 - Học Tập: Tiếp tục học và nâng cao kiến thức chuyên ngành Công nghệ phần mềm và các ngôn ngữ lập trình mới như Python và TypeScript để bổ trợ cho dự án.
 - Kinh Nghiệm Làm Việc: Tìm kiếm cơ hội thực tập tại các công ty công nghệ uy tín để áp dụng kiến thức đã học vào thực tế và phát triển kỹ năng chuyên môn.
