@@ -20,6 +20,12 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 ### 📫 Liên Hệ
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/myanh040404040404?mibextid=LQQJ4d)
 
+### 💡 Kỹ Năng
+- **Lập trình**: Thành thạo C#, JavaScript, SQL.
+- **Giao tiếp**: Kỹ năng giao tiếp tốt, có khả năng làm việc nhóm hiệu quả.
+- **Giải quyết vấn đề**: Kỹ năng phân tích và giải quyết vấn đề linh hoạt.
+- **Quản lý thời gian**: Kỹ năng lập kế hoạch và quản lý thời gian hiệu quả.
+
 ### 🛠 Ngôn Ngữ Lập Trình
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
