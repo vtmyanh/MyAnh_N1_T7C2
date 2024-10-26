@@ -9,6 +9,8 @@
 - **Đề tài**: Bán sách
 
 ### 📚 Dự Án Bán Sách Online
+<marquee>Chào mừng bạn đến với dự án Bán Sách Online!</marquee>
+
 Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền tảng giúp người dùng dễ dàng tìm kiếm, mua và quản lý sách trực tuyến. Chúng tôi mong muốn mang đến trải nghiệm mua sắm thuận tiện và đa dạng cho tất cả những ai yêu thích đọc sách.
 
 ### 🚀 Tính Năng của Dự Án
