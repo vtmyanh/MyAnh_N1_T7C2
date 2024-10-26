@@ -6,6 +6,13 @@
 #### Giới thiệu nhóm
 - Thành viên nhóm 1
 - Đề tài: Bán sách
+# 📚 Dự án Bán Sách Online
+Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền tảng giúp người dùng dễ dàng tìm kiếm, mua và quản lý sách trực tuyến. Chúng tôi mong muốn mang đến trải nghiệm mua sắm thuận tiện và đa dạng cho tất cả những ai yêu thích đọc sách.
+## 🚀 Tính năng của Dự án
+- **Tìm kiếm sách**: Người dùng có thể tìm kiếm sách theo tiêu đề, tác giả hoặc thể loại.
+- **Giỏ hàng**: Thêm sách vào giỏ hàng và quản lý đơn hàng một cách dễ dàng.
+- **Quản lý tài khoản**: Người dùng có thể đăng ký, đăng nhập và quản lý thông tin cá nhân.
+- **Đánh giá và nhận xét**: Khách hàng có thể để lại đánh giá và nhận xét về sách đã mua.
 ### Liên hệ
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/myanh040404040404?mibextid=LQQJ4d)
 ### Ngôn ngữ lập trình
