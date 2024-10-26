@@ -44,4 +44,7 @@ Chào mừng đến với dự án **Bán Sách Online**! Đây là một nền 
 - Dự Án Cá Nhân: Xây dựng một nền tảng thương mại điện tử mới, tập trung vào các tính năng cá nhân hóa cho từng người dùng.
 - Nghiên Cứu: Khám phá và nghiên cứu về trí tuệ nhân tạo và học máy để mở rộng phạm vi ứng dụng trong các dự án phần mềm.
 
+### ❤️ Cảm Ơn 
+Cảm ơn bạn đã dành thời gian tìm hiểu về tôi và dự án Bán Sách Online. Mọi ý kiến đóng góp và phản hồi đều được trân trọng để giúp chúng tôi cải thiện và mang đến trải nghiệm tốt hơn. Hy vọng được đồng hành cùng bạn trong hành trình khám phá thế giới sách!
+
 
