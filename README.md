@@ -3,7 +3,7 @@
 - Tuổi: 20
 -  Trường Đại học Ngoại ngữ - Tin học TpHCM
 - Email: vothimyanh1311@gmail.com
-#### Giới thiệu nhóm
+### Giới thiệu nhóm
 - Thành viên nhóm 1
 - Đề tài: Bán sách
 ### 📚 Dự án Bán Sách Online
